@@ -1,0 +1,18 @@
+[project]
+name = "fastapi-tiangolo-com-python-types"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "thanhlt-1007",email = "le.tan.thanh@sun-asterisk.com"}
+]
+readme = "README.md"
+requires-python = "3.13.0"
+dependencies = [
+]
+
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
