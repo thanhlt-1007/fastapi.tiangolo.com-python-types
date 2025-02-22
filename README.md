@@ -24,3 +24,11 @@ python -m pip install poetry
 ```sh
 poetry install
 ```
+
+## ruff
+
+```sh
+python -m ruff format
+python -m ruff check
+python -m ruff check --fix
+```
